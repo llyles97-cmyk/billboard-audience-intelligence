@@ -24,6 +24,13 @@ It’s an audience intelligence system.
 
 ---
 
+## Live Dashboard
+
+👉 **Explore the interactive Tableau dashboard:**  
+https://public.tableau.com/views/BillboardAudienceIntelligenceChartvsStreaming20002021/Dashboard1
+
+---
+
 ## Project Brief
 
 Billboard's Hot 100 has defined what a "hit" means in American music for over 60 years.  
@@ -172,13 +179,6 @@ Use divergence scores as a **leading indicator of undervalued talent**.
 Focus investment on segments where:
 - streaming demand is strong
 - chart recognition lags
-
----
-
-## Dashboard
-
-**Tableau Dashboard:**  
-https://public.tableau.com/views/BillboardAudienceIntelligenceChartvsStreaming20002021/Dashboard1
 
 ---
 
