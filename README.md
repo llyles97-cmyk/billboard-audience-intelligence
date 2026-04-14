@@ -58,7 +58,7 @@ Secondary questions:
 
 ### Match Rate & Sample Validation
 
-The inner join on song + artist title produced a **12.89% match rate**. Before drawing conclusions from this sample, three bias checks were run:
+The inner join on song + artist title produced a **21.63% match rate**. Before drawing conclusions from this sample, three bias checks were run:
 
 **1. Era distribution drift**
 Decade-level distributions of the matched sample vs. the full Billboard dataset were compared. Drift values near zero indicate the sample is era-representative. Significant drift in any decade would invalidate temporal trend claims.
@@ -213,7 +213,7 @@ Replace or supplement chart rank as a primary A&R filter with a divergence-weigh
 
 ## What This Analysis Does Not Claim
 
-- The 12.89% match rate makes this a directional study, not a market share calculation
+- The 21.63% match rate makes this a directional study, not a market share calculation
 - Spotify popularity is not raw streams — it is a recency-weighted relative score
 - Manual segmentation thresholds are defensible but not the only valid choices — sensitivity tests are included
 - The time-lag estimate is a proxy; precise lag calculation requires proprietary streaming history data
